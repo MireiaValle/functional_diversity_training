@@ -1,0 +1,11 @@
+species,Loo,K,Winfinity,tmax,tm,M,Lm,depthrangedeep,demerspelag,FeedingType,bodyshape
+Maurolicus muelleri,6.641879369,0.819730123,2.168174166,3.213052627,0.932204336,1.375661495,4.503243115,1524,pelagic,selective plankton feeding,elongated
+Naucrates ductor,38.76772007,2.051430325,371.4248025,2.561032893,0.614697832,2.874539377,22.98185003,300,reef-associated,other,fusiform_normal
+Sphyrna zygaena,183.2821364,0.174563288,23484.18628,22.14456566,7.49731157,0.220548026,120.2311077,200,pelagic,hunting macrofauna (predator),elongated
+Campogramma glaycos,42.62775189,0.490575544,895.8792376,6.539581739,1.718479812,1.026351109,22.24574664,30,pelagic,hunting macrofauna (predator),fusiform_normal
+Hygophum hygomii,9.461291883,0.657286867,8.326966067,3.568326793,1.11430565,1.49470543,5.712577048,1485,pelagic,other,fusiform_normal
+Lampris guttatus,55.5173207,0.247055178,1400.718788,10.40542599,3.069332319,0.437254885,29.57610813,500,pelagic,hunting macrofauna (predator),short_andor_deep
+Pomatoschistus microps,10.17527544,0.549472057,6.183923742,4.031037553,0.92605663,1.231554932,5.407025658,12,demersal,hunting macrofauna (predator),fusiform_normal
+Spondyliosoma cantharus,44.37744992,0.193887357,1883.887805,14.59640597,3.544044264,0.353728246,23.34832215,300,pelagic,variable,fusiform_normal
+Dasyatis pastinaca,150.1496891,0.089079767,6438.660144,9.00528005,3.223095118,0.293033387,46.9081675,200,demersal,hunting macrofauna (predator),other
+Stephanolepis hispidus,25.70846396,0.414790534,252.687212,5.875297315,1.811852588,0.894881551,14.27786821,293,reef-associated,grazing on aquatic plants,short_andor_deep
